@@ -1,0 +1,21 @@
+.card{
+    /* box-shadow: 5px 5px 5px gray; */
+    aspect-ratio: 16/9;
+    box-shadow: inset 0px 1px 15px 3px #A3A3A3,5px 9px 10px 5px #AFAFAF;
+}
+
+.orange{
+    font-size: 40px;
+    color: orange;
+    
+}
+
+.blue{
+    font-size: 40px;
+    color: blue;
+}
+
+.green{
+    font-size: 40px;
+    color: green;
+}
